@@ -1,7 +1,5 @@
 package rocks.zipcode.io.quiz4.generics;
 
-import sun.invoke.empty.Empty;
-
 import java.util.ArrayList;
 import java.util.EmptyStackException;
 import java.util.Iterator;
